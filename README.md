@@ -49,7 +49,6 @@ I enjoy learning by building projects and improving my problem-solving skills.
 
 ## 📊 GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anuuj6268&show_icons=true&theme=dark&hide_border=true" />
 <img height="165" src="https://streak-stats.demolab.com/?user=anuuj6268&theme=dark&hide_border=true" />
 
 
