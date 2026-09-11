@@ -26,6 +26,8 @@ I enjoy learning by building projects and improving my problem-solving skills.
 
 <br clear="right"/>
 
+---
+
 <div align="center">
 
 ## 🤝 Connect
