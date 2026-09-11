@@ -1,17 +1,19 @@
 <div align="center">
 <div align="center">
   <img src="git1.png" width="100%">
-</div>
+<div align="center">
+
 # Hi 👋, I'm Anuj Meena
 
-### Computer Science Student | Web Application Developer
+### Web Application Developer
 
-Java • SQL • HTML • CSS • JavaScript
+`Java` • `SQL` • `JDBC` • `Servlets` • `JSP`
+
+### `Just Code Nig`
 
 Building projects, learning backend development, and improving my DSA skills.
 
 </div>
-
 ---
 
 <div align="center">
