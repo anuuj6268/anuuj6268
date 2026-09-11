@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="git1.png" width="100%">
+<img src="git2.png" width="100%">
 
 # Hi 👋, I'm Anuj Meena
 
