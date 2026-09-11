@@ -1,7 +1,6 @@
 <div align="center">
-<div align="center">
-  <img src="git1.png" width="100%">
-<div align="center">
+
+<img src="git1.png" width="100%">
 
 # Hi 👋, I'm Anuj Meena
 
@@ -12,6 +11,8 @@
 ### `Just Code Nig`
 
 Building projects, learning backend development, and improving my DSA skills.
+
+</div>
 
 ---
 
@@ -28,6 +29,7 @@ I enjoy learning by building projects and improving my problem-solving skills.
 <br clear="right"/>
 
 ---
+
 <div align="center">
 
 ## 🤝 Connect
