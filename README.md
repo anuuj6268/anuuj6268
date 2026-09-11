@@ -56,9 +56,9 @@ I enjoy learning by building things and turning what I learn into working projec
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=anuuj6268&show_icons=true&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=anuuj6268&show_icons=true&theme=dark&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuuj6268&layout=compact&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anuuj6268&layout=compact&theme=dark&hide_border=true" />
 
 </div>
 
