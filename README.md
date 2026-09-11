@@ -1,5 +1,7 @@
 <div align="center">
-
+<div align="center">
+  <img src="git1.png" width="100%">
+</div>
 # Hi 👋, I'm Anuj Meena
 
 ### Computer Science Student | Web Application Developer
