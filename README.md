@@ -15,6 +15,7 @@ Building projects, learning backend development, and improving my DSA skills.
 
 </div>
 ---
+---
 
 <div align="center">
 
@@ -22,14 +23,10 @@ Building projects, learning backend development, and improving my DSA skills.
 
 </div>
 
-I'm a Computer Science student interested in web application development.
+Computer Science student focused on Java and web application development.
 
-I work with Java, SQL, JDBC, Servlets, JSP, HTML, CSS and JavaScript.  
-Currently focused on improving my backend development and DSA skills through projects and regular practice.
+Currently working with Java, SQL, JDBC, Servlets and JSP, while improving my backend development and DSA skills through projects and practice.
 
-I enjoy learning by building things and turning what I learn into working projects.
-
----
 
 <div align="center">
 
