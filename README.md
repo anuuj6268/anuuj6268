@@ -16,7 +16,7 @@ Building projects, learning backend development, and improving my DSA skills.
 
 ---
 
-<img align="right" src="levi-pixel-art.jpg" width="45%">
+<img align="right" src="levi-pixel-art.jpg" width="38%">
 
 ## >_ About Me
 
