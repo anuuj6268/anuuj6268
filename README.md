@@ -14,7 +14,9 @@ Building projects, learning backend development, and improving my DSA skills.
 
 </div>
 
-<img align="right" src="levi-pixel-art.jpg" width="38%">
+<table>
+<tr>
+<td width="55%" valign="middle">
 
 ## >_ About Me
 
@@ -24,7 +26,12 @@ Currently working with Java, SQL, JDBC, Servlets and JSP, while improving my bac
 
 I enjoy learning by building projects and improving my problem-solving skills.
 
-<br clear="right"/>
+</td>
+<td width="45%" align="center">
+<img src="guy.png" width="100%">
+</td>
+</tr>
+</table>
 
 ---
 
