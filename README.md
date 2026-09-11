@@ -46,7 +46,7 @@ I enjoy learning by building projects and improving my problem-solving skills.
 <a href="https://www.linkedin.com/in/anuj-meena309/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
+## 💻 Tech Stack <img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,git,github,vscode&theme=dark" />
 ## 📊 GitHub Stats
 
 <img height="165" src="https://streak-stats.demolab.com/?user=anuuj6268&theme=dark&hide_border=true" />
