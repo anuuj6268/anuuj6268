@@ -19,7 +19,7 @@ Building projects, learning backend development, and improving my DSA skills.
 <tr>
 <td width="55%" valign="middle">
 
-## >_ About Me
+##  >_ About Me
 
 Computer Science student focused on Java and web application development.
 
@@ -33,8 +33,6 @@ I enjoy learning by building projects and improving my problem-solving skills.
 </td>
 </tr>
 </table>
-
----
 
 <div align="center">
 
