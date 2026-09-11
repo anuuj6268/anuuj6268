@@ -30,6 +30,8 @@ I enjoy learning by building projects and improving my problem-solving skills.
 
 ---
 
+---
+
 <div align="center">
 
 ## 🤝 Connect
@@ -37,6 +39,7 @@ I enjoy learning by building projects and improving my problem-solving skills.
 <a href="https://github.com/anuuj6268">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/anuj-meena309/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
