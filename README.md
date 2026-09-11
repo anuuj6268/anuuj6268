@@ -13,15 +13,9 @@
 
 Building projects, learning backend development, and improving my DSA skills.
 
-</div>
----
 ---
 
----
-
-<table>
-<tr>
-<td width="55%" valign="top">
+<img align="right" src="levi-pixel-art.jpg" width="45%">
 
 ## >_ About Me
 
@@ -29,18 +23,11 @@ Computer Science student focused on Java and web application development.
 
 Currently working with Java, SQL, JDBC, Servlets and JSP, while improving my backend development and DSA skills through projects and practice.
 
-</td>
+I enjoy learning by building projects and improving my problem-solving skills.
 
-<td width="45%" align="center" valign="middle">
-
-<img src="levi-pixel-art.jpg" width="100%">
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
-
 <div align="center">
 
 ## 🤝 Connect
