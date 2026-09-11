@@ -47,20 +47,12 @@ I enjoy learning by building projects and improving my problem-solving skills.
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-## 💻 Tech Stack
-
-<img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,git,github,vscode&theme=dark" />
-
 ## 📊 GitHub Stats
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=anuuj6268&show_icons=true&theme=dark&hide_border=true" />
 <img height="165" src="https://streak-stats.demolab.com/?user=anuuj6268&theme=dark&hide_border=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuuj6268&layout=compact&theme=dark&hide_border=true" />
-
-## 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anuuj6268&theme=react-dark&hide_border=true" />
 
 ### Thanks for visiting my profile 👋
 
