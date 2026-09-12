@@ -1,8 +1,6 @@
 
 <div align="center">
 
-<img src="git2.png" width="100%">
-
 # Hi 👋, I'm Anuj Meena
 
 ### Web Application Developer
