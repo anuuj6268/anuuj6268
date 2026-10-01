@@ -48,9 +48,6 @@ I enjoy learning by building projects and improving my problem-solving skills.
 
 <img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,git,github,vscode&theme=dark" />
 
-## 📊 GitHub Stats
-
-<img height="165" src="https://streak-stats.demolab.com/?user=anuuj6268&theme=dark&hide_border=true" />
 
 ### Thanks for visiting my profile 👋
 
